@@ -1,5 +1,5 @@
 # Hi there 👋
-I’m a passionate interface and experience designer from Brazil, curious by nature and that is what I think makes me go beyond to achieve the most results in the products that I work on.
+I’m a passionate interface and experience designer from Brazil, curious by nature and that is what I think makes me go beyond.
 
 🔭 Currently working on designing cool stuff...
 🌱 Learning ReactJS
