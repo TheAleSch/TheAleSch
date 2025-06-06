@@ -16,8 +16,6 @@ POC of a simple tool to generate accessible, consistent color palettes using per
 #### [My Portfolio](https://ale.design/) 
 Check some work and projects I've worked on.
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandreschrammel) 
 
 ## 📊GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheAleSch&theme=vue-dark&hide_border=true)
