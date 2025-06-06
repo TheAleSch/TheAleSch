@@ -13,6 +13,8 @@ Tool for condos to manage and communicate with their tenants
  Simple, effective invoicing for contractors — built to generate and manage invoices effortlessly..
 #### [Swatch Generator](https://colorswatches.ale.design/) 
 POC of a simple tool to generate accessible, consistent color palettes using perceptual color spaces like OKLCH. Built with Next.js, Tailwind CSS, and Chroma.js.
+#### [My Portfolio](https://ale.design/) 
+Check some work and projects I've worked on.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandreschrammel) 
