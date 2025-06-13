@@ -15,7 +15,3 @@ Tool for condos to manage and communicate with their tenants
 POC of a simple tool to generate accessible, consistent color palettes using perceptual color spaces like OKLCH. Built with Next.js, Tailwind CSS, and Chroma.js.
 #### [My Portfolio](https://ale.design/) 
 Check some work and projects I've worked on.
-
-
-## 📊GitHub Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=TheAleSch&theme=vue-dark&hide_border=true)
