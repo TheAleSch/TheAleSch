@@ -7,6 +7,8 @@ Just like an architect needs to understand concrete, should understand code.
 🌱 Always learning, exploring, and refining my craft.
 
 ## 🧰 Tools/Saas/Experiments
+#### [Fringue]() - Soon
+Organize your closet or wardrobe, try your outfits and save your favorite ones.
 #### [Vizim App](https://vizim.app) 
 Tool for condos to manage and communicate with their tenants
 #### [Invx App](https://invx.app)
