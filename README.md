@@ -16,11 +16,20 @@ Check some work and projects I've worked on.
 #### [Amplo Fill Picker](https://amplo.ale.design)
 Composable, OKLCH-native, Display-P3-aware fill picker for React. WCAG/APCA contrast metrics, gamut detection, soft-proofing, and full keyboard accessibility. Ships as a shadcn registry component.
 
+<img src="https://heedb.com/favicon.svg" width="64" height="64" />
+
 #### [Heedb](https://heedb.com)
 In app feedback widget, so vibecoders can collect feedback from their customers, and reply like it's an email thread. NextJS, Drizzle, and Resend.
+
+<img src="https://raw.githubusercontent.com/TheAleSch/TheAleSch/main/assets/fringue.png" width="64" height="64" />
+
 #### [Fringue](https://Fringue.app)
 Organize your closet or wardrobe, try your outfits and save your favorite ones. NextJS, Drizzle, FLUX, Resend, Gemini, React Native
+
 #### [Vizim App](https://vizim.app) 
 Tool for condos to manage and communicate with their tenants. NextJS, Drizzle.
+
+<img src="https://raw.githubusercontent.com/TheAleSch/TheAleSch/main/assets/invx.svg" width="64" height="64" />
+
 #### [Invx App](https://invx.app)
- Simple, effective invoicing for contractors — built to generate and manage invoices effortlessly.
+Simple, effective invoicing for contractors — built to generate and manage invoices effortlessly.
