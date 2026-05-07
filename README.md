@@ -1,4 +1,3 @@
-
 # Hi there 👋  
 I'm a passionate interface and experience designer — and also a coder, driven by curiosity and a desire to push beyond the obvious.
 Just like an architect needs to understand concrete, should understand code.
@@ -11,6 +10,12 @@ Check some work and projects I've worked on.
 🌱 Always learning, exploring, and refining my craft.
 
 ## 🧰 Tools/Saas/Experiments
+
+<img src="https://amplo.ale.design/favicon/favicon.svg" width="64" height="64" />
+
+#### [Amplo Fill Picker](https://amplo.ale.design)
+Composable, OKLCH-native, Display-P3-aware fill picker for React. WCAG/APCA contrast metrics, gamut detection, soft-proofing, and full keyboard accessibility. Ships as a shadcn registry component.
+
 #### [Heedb](https://heedb.com)
 In app feedback widget, so vibecoders can collect feedback from their customers, and reply like it's an email thread. NextJS, Drizzle, and Resend.
 #### [Fringue](https://Fringue.app)
@@ -19,5 +24,3 @@ Organize your closet or wardrobe, try your outfits and save your favorite ones. 
 Tool for condos to manage and communicate with their tenants. NextJS, Drizzle.
 #### [Invx App](https://invx.app)
  Simple, effective invoicing for contractors — built to generate and manage invoices effortlessly.
-#### [Swatch Generator](https://colorswatches.ale.design/) 
-POC of a simple tool to generate accessible, consistent color palettes using perceptual color spaces like OKLCH. Built with Next.js, Tailwind CSS, and Chroma.js.
